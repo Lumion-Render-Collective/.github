@@ -24,8 +24,7 @@
 - `exports/` — render and export preset files for fast delivery
 - `guides/` — quick-start tips, compatibility notes, and FAQ
 - `assets/` — banners and example renders
-> ⚠️ This repository does **not** include or distribute Lumion installers, license files, or unauthorized third-party binaries. Always obtain Lumion from official vendors.
-
+ 
 ---
 
 ## 🧩 Screenshot example
@@ -74,8 +73,7 @@ lumion toolkit, lumion scenes, lumion presets, rendering resources, ls8 template
 ---
 ## ⚖️ License & notes
 - Repository assets are provided under permissive terms for educational and creative use (see `LICENSE`).
-- This project is **not affiliated** with Lumion. Obtain Lumion from official vendors.
-
+ 
 
 ---
 
