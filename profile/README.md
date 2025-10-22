@@ -43,9 +43,7 @@ lumion toolkit, lumion scenes, lumion presets, rendering resources, ls8 template
 ---
 ## ⚖️ License & notes
 - Repository assets are provided under permissive terms for educational and creative use (see `LICENSE`).
-- This project is **not affiliated** with Lumion. Obtain Lumion from official vendors.
-
-
+ 
 ---
 
 ## 📬 Contacts
